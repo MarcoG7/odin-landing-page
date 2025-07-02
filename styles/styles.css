@@ -9,7 +9,8 @@ body {
 /* General Page Padding */
 .header,
 .main-section,
-.info-section {
+.info-section,
+.quote-section {
     padding-left: 300px;
     padding-right: 300px;
 }
@@ -94,7 +95,8 @@ body {
 
 /* INFO SECTION */
 .info-section {
-    margin-top: 24px;
+    padding-top: 24px;
+    padding-bottom: 72px;
 }
 
 .info-section h2 {
@@ -129,4 +131,26 @@ body {
     text-align: center;
     color: #1F2937;
     font-size: 22px;
+}
+
+
+/* QUOTE SECTION */
+.quote-section {
+    background-color: #E5E7EB;
+    padding-top: 72px;
+    padding-bottom: 72px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    text-align: justify;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
 }
