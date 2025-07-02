@@ -69,6 +69,7 @@ body {
 .title-section p {
     color: #E5E7EB;
     font-size: 18px;
+    text-align: justify;
 }
 
 .title-section button {
@@ -81,9 +82,9 @@ body {
     border-radius: 10px;
 }
 
-.image {
-    width: 600px;
-    height: 250px;
+.main-section img {
+    width: 500px;
+    height: 315px;
     background-color: gray;
     color: white;
     
@@ -122,10 +123,8 @@ body {
     max-width: 200px;
 }
 
-.info .info-image {  /* replace with .info img */
+.info img {
     width: 200px;
-    height: 200px;
-    border: 5px solid blue;
     border-radius: 10px;
 }
 
