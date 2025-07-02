@@ -6,10 +6,17 @@ body {
     flex-direction: column;
 }
 
+/* General Page Padding */
+.header,
+.main-section {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
 /* HEADER BAR */
 .header {
     background-color: #1F2937;
-    padding: 16px 16px;
 
     display: flex;
     align-items: center;
