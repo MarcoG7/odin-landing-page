@@ -1,0 +1,90 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#2F1B14"/>
+  
+  <!-- Roasting machine body -->
+  <rect x="200" y="200" width="300" height="200" rx="20" fill="#B87333"/>
+  <rect x="210" y="210" width="280" height="180" rx="15" fill="#CD853F"/>
+  
+  <!-- Drum roaster window -->
+  <circle cx="350" cy="300" r="60" fill="#654321"/>
+  <circle cx="350" cy="300" r="55" fill="#1a1a1a"/>
+  <circle cx="350" cy="300" r="50" fill="#8B4513" opacity="0.3"/>
+  
+  <!-- Coffee beans tumbling inside -->
+  <circle cx="330" cy="285" r="3" fill="#A0522D"/>
+  <circle cx="370" cy="295" r="3" fill="#8B4513"/>
+  <circle cx="345" cy="315" r="3" fill="#654321"/>
+  <circle cx="355" cy="280" r="3" fill="#A0522D"/>
+  <circle cx="340" cy="320" r="3" fill="#8B4513"/>
+  
+  <!-- Control panels -->
+  <rect x="520" y="220" width="120" height="160" rx="10" fill="#2F2F2F"/>
+  <rect x="530" y="230" width="100" height="140" rx="5" fill="#1a1a1a"/>
+  
+  <!-- Temperature gauges -->
+  <circle cx="580" cy="260" r="25" fill="#F5F5F5"/>
+  <circle cx="580" cy="260" r="20" fill="#000"/>
+  <path d="M580 245 L585 260 L580 275" stroke="#FF4500" stroke-width="3" fill="none"/>
+  <text x="580" y="290" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#F5F5F5">°F</text>
+  
+  <!-- Timer -->
+  <circle cx="580" cy="320" r="25" fill="#F5F5F5"/>
+  <circle cx="580" cy="320" r="20" fill="#000"/>
+  <path d="M580 305 L580 320 L590 330" stroke="#00FF00" stroke-width="2" fill="none"/>
+  <text x="580" y="350" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#F5F5F5">TIME</text>
+  
+  <!-- Master roaster figure -->
+  <ellipse cx="120" cy="180" rx="15" ry="20" fill="#DEB887"/> <!-- head -->
+  <rect x="105" y="200" width="30" height="60" fill="#8B4513"/> <!-- body/apron -->
+  <rect x="110" y="205" width="20" height="50" fill="#654321"/> <!-- shirt -->
+  
+  <!-- Arms -->
+  <rect x="90" y="220" width="25" height="8" fill="#DEB887"/> <!-- left arm -->
+  <rect x="125" y="220" width="25" height="8" fill="#DEB887"/> <!-- right arm -->
+  
+  <!-- Legs -->
+  <rect x="110" y="260" width="8" height="40" fill="#2F2F2F"/>
+  <rect x="122" y="260" width="8" height="40" fill="#2F2F2F"/>
+  
+  <!-- Hand holding clipboard -->
+  <rect x="140" y="215" width="15" height="20" fill="#F5F5DC"/>
+  <rect x="142" y="217" width="11" height="16" fill="#FFF"/>
+  <line x1="144" y1="220" x2="151" y2="220" stroke="#000" stroke-width="0.5"/>
+  <line x1="144" y1="223" x2="151" y2="223" stroke="#000" stroke-width="0.5"/>
+  <line x1="144" y1="226" x2="151" y2="226" stroke="#000" stroke-width="0.5"/>
+  
+  <!-- Flames underneath roaster -->
+  <ellipse cx="250" cy="420" rx="40" ry="20" fill="#FF4500" opacity="0.8"/>
+  <ellipse cx="300" cy="415" rx="35" ry="18" fill="#FF6347" opacity="0.7"/>
+  <ellipse cx="350" cy="420" rx="40" ry="20" fill="#FF4500" opacity="0.8"/>
+  <ellipse cx="400" cy="415" rx="35" ry="18" fill="#FF6347" opacity="0.7"/>
+  <ellipse cx="450" cy="420" rx="40" ry="20" fill="#FF4500" opacity="0.8"/>
+  
+  <!-- Flame tongues -->
+  <path d="M270 400 Q275 385 280 400 Q285 390 290 400" fill="#FF8C00" opacity="0.9"/>
+  <path d="M370 400 Q375 385 380 400 Q385 390 390 400" fill="#FF8C00" opacity="0.9"/>
+  <path d="M420 400 Q425 385 430 400 Q435 390 440 400" fill="#FF8C00" opacity="0.9"/>
+  
+  <!-- Steam/smoke rising -->
+  <ellipse cx="300" cy="180" rx="20" ry="40" fill="#F5F5F5" opacity="0.4"/>
+  <ellipse cx="350" cy="170" rx="25" ry="45" fill="#F5F5F5" opacity="0.3"/>
+  <ellipse cx="400" cy="175" rx="18" ry="35" fill="#F5F5F5" opacity="0.4"/>
+  
+  <!-- Roasted beans cooling tray -->
+  <rect x="600" y="350" width="100" height="80" fill="#8B4513"/>
+  <rect x="605" y="355" width="90" height="70" fill="#A0522D"/>
+  
+  <!-- Golden-brown roasted beans -->
+  <circle cx="620" cy="380" r="3" fill="#D2691E"/>
+  <circle cx="640" cy="375" r="3" fill="#CD853F"/>
+  <circle cx="660" cy="385" r="3" fill="#D2691E"/>
+  <circle cx="680" cy="380" r="3" fill="#CD853F"/>
+  <circle cx="630" cy="400" r="3" fill="#D2691E"/>
+  <circle cx="650" cy="395" r="3" fill="#CD853F"/>
+  <circle cx="670" cy="405" r="3" fill="#D2691E"/>
+  
+  <!-- Warm lighting -->
+  <ellipse cx="350" cy="100" rx="100" ry="50" fill="#FFD700" opacity="0.2"/>
+  <ellipse cx="580" cy="120" rx="80" ry="40" fill="#FFA500" opacity="0.15"/>
+</svg>

@@ -1,0 +1,115 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#F5E6D3"/>
+  
+  <!-- Wooden table -->
+  <ellipse cx="400" cy="350" rx="350" ry="100" fill="#8B4513"/>
+  <ellipse cx="400" cy="340" rx="350" ry="100" fill="#A0522D"/>
+  
+  <!-- White cupping bowls arranged in rows -->
+  <!-- First row -->
+  <ellipse cx="200" cy="280" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="200" cy="275" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="200" cy="275" rx="20" ry="6" fill="#8B4513" opacity="0.8"/>
+  
+  <ellipse cx="280" cy="280" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="280" cy="275" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="280" cy="275" rx="20" ry="6" fill="#654321" opacity="0.8"/>
+  
+  <ellipse cx="360" cy="280" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="360" cy="275" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="360" cy="275" rx="20" ry="6" fill="#A0522D" opacity="0.8"/>
+  
+  <ellipse cx="440" cy="280" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="440" cy="275" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="440" cy="275" rx="20" ry="6" fill="#8B4513" opacity="0.8"/>
+  
+  <ellipse cx="520" cy="280" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="520" cy="275" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="520" cy="275" rx="20" ry="6" fill="#654321" opacity="0.8"/>
+  
+  <ellipse cx="600" cy="280" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="600" cy="275" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="600" cy="275" rx="20" ry="6" fill="#A0522D" opacity="0.8"/>
+  
+  <!-- Second row -->
+  <ellipse cx="240" cy="320" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="240" cy="315" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="240" cy="315" rx="20" ry="6" fill="#8B4513" opacity="0.8"/>
+  
+  <ellipse cx="320" cy="320" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="320" cy="315" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="320" cy="315" rx="20" ry="6" fill="#654321" opacity="0.8"/>
+  
+  <ellipse cx="400" cy="320" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="400" cy="315" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="400" cy="315" rx="20" ry="6" fill="#A0522D" opacity="0.8"/>
+  
+  <ellipse cx="480" cy="320" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="480" cy="315" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="480" cy="315" rx="20" ry="6" fill="#8B4513" opacity="0.8"/>
+  
+  <ellipse cx="560" cy="320" rx="25" ry="8" fill="#F5F5F5"/>
+  <ellipse cx="560" cy="315" rx="25" ry="8" fill="#FFF"/>
+  <ellipse cx="560" cy="315" rx="20" ry="6" fill="#654321" opacity="0.8"/>
+  
+  <!-- Silver spoons -->
+  <ellipse cx="220" cy="290" rx="12" ry="3" fill="#C0C0C0"/>
+  <rect x="225" y="285" width="2" height="15" fill="#C0C0C0"/>
+  
+  <ellipse cx="300" cy="290" rx="12" ry="3" fill="#C0C0C0"/>
+  <rect x="305" y="285" width="2" height="15" fill="#C0C0C0"/>
+  
+  <ellipse cx="380" cy="290" rx="12" ry="3" fill="#C0C0C0"/>
+  <rect x="385" y="285" width="2" height="15" fill="#C0C0C0"/>
+  
+  <ellipse cx="460" cy="290" rx="12" ry="3" fill="#C0C0C0"/>
+  <rect x="465" y="285" width="2" height="15" fill="#C0C0C0"/>
+  
+  <ellipse cx="540" cy="290" rx="12" ry="3" fill="#C0C0C0"/>
+  <rect x="545" y="285" width="2" height="15" fill="#C0C0C0"/>
+  
+  <!-- Notepads and pens -->
+  <rect x="150" y="320" width="40" height="30" fill="#F5F5DC"/>
+  <rect x="152" y="322" width="36" height="26" fill="#FFF"/>
+  <line x1="155" y1="328" x2="185" y2="328" stroke="#000" stroke-width="0.5"/>
+  <line x1="155" y1="333" x2="180" y2="333" stroke="#000" stroke-width="0.5"/>
+  <line x1="155" y1="338" x2="185" y2="338" stroke="#000" stroke-width="0.5"/>
+  <rect x="190" y="340" width="2" height="15" fill="#1E90FF"/>
+  
+  <rect x="650" y="300" width="40" height="30" fill="#F5F5DC"/>
+  <rect x="652" y="302" width="36" height="26" fill="#FFF"/>
+  <line x1="655" y1="308" x2="685" y2="308" stroke="#000" stroke-width="0.5"/>
+  <line x1="655" y1="313" x2="680" y2="313" stroke="#000" stroke-width="0.5"/>
+  <line x1="655" y1="318" x2="685" y2="318" stroke="#000" stroke-width="0.5"/>
+  <rect x="690" y="320" width="2" height="15" fill="#1E90FF"/>
+  
+  <!-- People in background (simplified silhouettes) -->
+  <!-- Person 1 -->
+  <ellipse cx="100" cy="150" rx="12" ry="15" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="88" y="165" width="24" height="40" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="83" y="175" width="15" height="6" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="102" y="175" width="15" height="6" fill="#2F2F2F" opacity="0.6"/>
+  
+  <!-- Person 2 -->
+  <ellipse cx="700" cy="160" rx="12" ry="15" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="688" y="175" width="24" height="40" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="683" y="185" width="15" height="6" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="702" y="185" width="15" height="6" fill="#2F2F2F" opacity="0.6"/>
+  
+  <!-- Person 3 leaning over table -->
+  <ellipse cx="400" cy="180" rx="12" ry="15" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="388" y="195" width="24" height="35" fill="#2F2F2F" opacity="0.6"/>
+  <rect x="383" y="205" width="15" height="6" fill="#2F2F2F" opacity="0.6"/>
+  
+  <!-- Steam/aroma rising from cups -->
+  <path d="M200 270 Q205 255 210 270 Q215 260 220 270" stroke="#F5F5F5" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M280 270 Q285 255 290 270 Q295 260 300 270" stroke="#F5F5F5" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M360 270 Q365 255 370 270 Q375 260 380 270" stroke="#F5F5F5" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M440 270 Q445 255 450 270 Q455 260 460 270" stroke="#F5F5F5" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Elegant lighting -->
+  <ellipse cx="400" cy="80" rx="200" ry="50" fill="#FFD700" opacity="0.1"/>
+  <ellipse cx="200" cy="120" rx="100" ry="30" fill="#FFA500" opacity="0.08"/>
+  <ellipse cx="600" cy="110" rx="120" ry="35" fill="#FF8C00" opacity="0.08"/>
+</svg>
