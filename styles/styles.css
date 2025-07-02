@@ -13,7 +13,7 @@ body {
 
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .header-logo {
@@ -35,4 +35,17 @@ body {
 .nav-links a {
     color: lightgray;
     text-decoration: none;
+}
+
+
+/* MAIN SECTION */
+.main-section {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-section h1 {
+    color: white;
+
 }
