@@ -1,3 +1,38 @@
 body {
+    margin: 0;
     font-family: 'Roboto', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+}
+
+/* HEADER BAR */
+.header {
+    background-color: #1F2937;
+    padding: 16px 16px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    margin: 0;
+}
+
+.nav-links {
+    margin: 0;
+    padding: 0;
+    
+    display: flex;
+    list-style-type: none;
+    gap: 16px;
+}
+
+.nav-links a {
+    color: lightgray;
+    text-decoration: none;
 }
