@@ -17,6 +17,8 @@ body {
 /* HEADER BAR */
 .header {
     background-color: #1F2937;
+    padding-top: 12px;
+    padding-bottom: 72px;
 
     display: flex;
     align-items: center;
@@ -54,5 +56,17 @@ body {
 
 .title-section h1 {
     color: white;
+}
 
+.title-section p {
+    color: lightgray;
+}
+
+.title-section button {
+    background-color: cornflowerblue;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: 0;
+    border-radius: 10px;
 }
