@@ -8,7 +8,8 @@ body {
 
 /* General Page Padding */
 .header,
-.main-section {
+.main-section,
+.info-section {
     padding-left: 300px;
     padding-right: 300px;
 }
@@ -50,7 +51,7 @@ body {
 /* MAIN SECTION */
 .main-section {
     background-color: #1F2937;
-    padding-bottom: 72px;
+    padding-bottom: 100px;
 
     display: flex;
     justify-content: space-between;
@@ -88,4 +89,44 @@ body {
     justify-content: center;
     align-items: center;
     flex-shrink: 0;
+}
+
+
+/* INFO SECTION */
+.info-section {
+    margin-top: 24px;
+}
+
+.info-section h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    padding-bottom: 16px;;
+}
+
+.infos {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 200px;
+}
+
+.info .info-image {  /* replace with .info img */
+    width: 200px;
+    height: 200px;
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+
+.info p {
+    text-align: center;
+    color: #1F2937;
+    font-size: 22px;
 }
