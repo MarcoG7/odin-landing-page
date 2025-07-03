@@ -80,6 +80,13 @@ body {
     width: 120px;
     border: 0;
     border-radius: 10px;
+
+    transition-duration: 0.4s;
+}
+
+.title-section button:hover {
+    background-color: indigo;
+    cursor: pointer;
 }
 
 .main-section img {
